@@ -1,0 +1,16 @@
+Required Libraries :
+import io
+import random
+import sqlite3
+import datetime
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.application import MIMEApplication
+import streamlit as st
+import pandas as pd
+import numpy as np
+import cv2
+import plotly.express as px
+import qrcode
+from fpdf import FPDF
